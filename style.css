@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(212, 172, 25);
-    color: rgb(241, 11, 11);
+    background-color: rgb(25, 199, 212);
+    color: rgb(241, 11, 222);
     font-family: Roboto;
 }
 section{
-background-color: blue;
+background-color: rgb(255, 0, 0);
 padding-top: 80px;
 padding-bottom: 80px;
 display: flex;
@@ -24,7 +24,7 @@ p{
 header{
     font-size: 30px;
     padding-left: 20px;
-    color: black;
+    color:  rgb(100, 49, 196);
 }
 img{
     height: 200px;
@@ -33,7 +33,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 5px;
-    background-color: chartreuse;
+    background-color: rgb(255, 153, 0);
 }
 .chamada-video{
     display: flex;
